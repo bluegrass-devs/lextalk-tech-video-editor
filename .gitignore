@@ -1,0 +1,15 @@
+# media and per-event data never belong in this repo
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.AVI
+*.m4a
+*.wav
+*.mp3
+*.png
+*.gray
+*.raw
+decks/
+.DS_Store

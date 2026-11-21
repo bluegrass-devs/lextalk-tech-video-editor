@@ -1,0 +1,4 @@
+# Fixed screen corners: start_seconds<TAB>TLx:TLy:TRx:TRy:BLx:BLy:BRx:BRy (wide frame pixels).
+# Add a row whenever the camera was bumped.
+0.0	283:295:928:293:298:679:946:640
+790.5	286:301:931:299:301:685:949:646
